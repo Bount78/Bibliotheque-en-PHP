@@ -2,7 +2,6 @@
 
 Ce projet consiste à créer un site en PHP utilisant l'architecture MVC, qui permet de gérer une bibliothèque de livres en ligne. Les utilisateurs pourront consulter la liste des livres disponibles, les détails de chaque livre, ajouter de nouveaux livres et les éditer ou les supprimer.
 
-Ce projet a été réalisé grâce à une formation de Pierre Giraud, et j'ai pris beaucoup de plaisir à le développer.
 
 ## Technologies utilisées
 
